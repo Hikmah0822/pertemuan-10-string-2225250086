@@ -49,5 +49,3 @@ menggunakan strip(), split(), dan join().
 
 ## Sumber
 Materi Algoritma dan Pemrograman Pertemuan 10.
-Bantuan: dokumentasi resmi Python tentang tipe data string.
-https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
